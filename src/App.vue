@@ -1,10 +1,4 @@
-<template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
-  </div>
-</template>
-
+<template lang="pug" src="./app.pug"/>
 <script>
 export default {
   name: 'App'
